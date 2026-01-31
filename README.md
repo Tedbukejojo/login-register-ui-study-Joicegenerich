@@ -20,7 +20,7 @@ A interface inclui: / The interface includes:
 - Layout moderno e organizado / Modern and clean layout  
 - Experiência visual focada em UI/UX / UI/UX-focused visual experience  
 
-![screenshot](screenshot.jpg)
+<img src="screenshot.jpg" alt="Demonstração do Login" width="300">
 
 ---
 
