@@ -20,8 +20,9 @@ A interface inclui: / The interface includes:
 - Layout moderno e organizado / Modern and clean layout  
 - Experiência visual focada em UI/UX / UI/UX-focused visual experience  
 
-<img src="screenshot.jpg" alt="Demonstração do Login" width="300">
-
+<p align="center">
+  <img src="screenshot.jpg"" alt="Interface de uma tela de login e cadastro com design moderno nas cores roxo e branco." width="500">
+</p>
 ---
 
 ## 🛠️ Tecnologias Utilizadas / Technologies Used
